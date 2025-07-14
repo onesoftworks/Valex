@@ -5,7 +5,7 @@ local GUI = Mercury:Create{
     Name = "Space Hub",
     Size = UDim2.fromOffset(500, 330),
     Theme = Mercury.Themes.Legacy,
-    Link = "Space Hub111111"
+    Link = "Hello From Valex!"
 }
 local Tab = GUI:Tab{
 	Name = "Main Page",
